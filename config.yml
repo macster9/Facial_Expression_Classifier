@@ -1,0 +1,4 @@
+emotions: ["angry", "disgust", "fear", "happy", "neutral", "sad", "surprise"]
+home_dir: "C:/Users/thoma/PycharmProjects/camera/data"
+batch_size: 436
+lr: 0.01
